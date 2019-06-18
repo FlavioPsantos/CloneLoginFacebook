@@ -1,0 +1,83 @@
+body{
+	height: 800px;
+	background-image:linear-gradient(to bottom, #fefefe, #d6dcea);
+}
+#FACEBOOK-CABECALHO{
+	background-color: #3B5999;
+	width: 1400px;
+	margin: 0 auto;
+	padding: 1px;
+	color: white;
+	font-family: Microsoft Tai Le;
+	font-weight: bold;
+	display: block;
+}
+h1{
+	margin-left: 10%;
+	font-size: 260%;
+}
+form{
+	position: relative;
+	right: -39rem;
+	top: -3rem;
+	
+	font-size: 13px;
+
+}
+#labelemail{
+	position: relative;
+	top: -1.5rem;
+	left: 6.4rem;
+	font-family: arial;
+	font-size:11px;
+}
+#labelsenha{
+	position: relative;
+	top: -1.5rem;
+	left: 2.2rem;
+	font-family: arial;
+	font-size:11px;
+}
+#botao{
+	font-family: arial black;
+	color: white;
+	border: 1px solid #294e97;
+	background-color: #4466ae;
+	position: relative;
+	left: 1rem;
+}
+#conta li{
+	list-style-type: none;
+
+}
+#conta li a:link, li a:active{
+	text-decoration: none;
+}
+#conta {
+	position: relative;
+	font-size: 9px;
+	top: -3rem;
+	left: 55.8rem;
+	font-family: arial;
+	font-weight: bold;
+
+}
+ASIDE{
+	width: 500px;
+	float: left;
+}
+#contaform{
+	position: relative;
+	left: 50rem;
+	font-size: 40px;
+	width: 400px;
+}
+#contah1{
+	position: relative;
+	left: 50rem;
+}
+h2{
+	position: relative;
+	left: 54.5rem;
+	top: -2rem;
+}
